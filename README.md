@@ -1,0 +1,2 @@
+# Busca-Cega---Busca-em-largura-Busca-Heur-stica---A---Agente-inteligente-para-encontrar-menor-caminho
+Implementação dos algoritmos de busca BFS (Breadth-First Search) e A (A-Estrela) em Python. O projeto foca em pathfinding sobre grades, tratando obstáculos, limites do mapa e movimentos diagonais com custos variados, utilizando heurísticas para otimizar a busca pelo menor caminho. Desenvolvido em ambiente Jupyter/Google Colab.
